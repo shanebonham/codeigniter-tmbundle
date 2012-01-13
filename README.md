@@ -1,0 +1,1 @@
+This is a TextMate bundle for CodeIgniter 2. I don't expect anyone will find it useful besides me.
